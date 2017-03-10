@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 1741001984
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f9c0a2d728fc90b232da4f569576799f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0393b04927337028300b20a02e84f45b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 92
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1219815696, guid: de72a6d2da64d114d95e3c5a01cfaec5, type: 3}
+- Class: 114
+  Script: {fileID: 1384774831, guid: de72a6d2da64d114d95e3c5a01cfaec5, type: 3}
+- Class: 114
+  Script: {fileID: 1219815696, guid: 9754d4abda502c6458053d5ed8e4fc5a, type: 3}
+- Class: 114
+  Script: {fileID: 1384774831, guid: 9754d4abda502c6458053d5ed8e4fc5a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e89654dcf6db746d2a57aeaaa14f5e83, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+Assets:
+- Assets/Project/Visual/3D/Lan/Prefab/BR04THR_All.prefab
+Dependencies: []

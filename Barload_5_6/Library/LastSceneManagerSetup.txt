@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Project/Visual/3D/Scene/BR04THR_For_MachineCenter.unity
+  isLoaded: 1
+  isActive: 1

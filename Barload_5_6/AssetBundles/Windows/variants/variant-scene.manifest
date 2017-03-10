@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3642116153
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6cc9e066ccd28a135312060a45b740f0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c564d5346bb75d109a413199b85765c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleSample/SampleAssets/Variants/VariantScene.unity
+Dependencies:
+- AssetBundles/Windows/variants/myassets.hd

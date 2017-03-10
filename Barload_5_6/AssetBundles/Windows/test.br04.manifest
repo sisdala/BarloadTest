@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 1257637823
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 81dc85ab5efc42312cd51f46df53e68a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6c20c0912cd02ab6e2925d600a763158
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 92
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1219815696, guid: 9754d4abda502c6458053d5ed8e4fc5a, type: 3}
+- Class: 114
+  Script: {fileID: 1384774831, guid: 9754d4abda502c6458053d5ed8e4fc5a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e89654dcf6db746d2a57aeaaa14f5e83, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+Assets:
+- Assets/Project/Visual/3D/Lan/Prefab/BR04THR.prefab
+Dependencies: []
